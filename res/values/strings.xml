@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Realtor</string>
+    <string name="realtor_detail">Realtor Detail</string>
+    
+    <string name="name">Name</string>
+    <string name="office_name">Office Name</string>
+    <string name="office_phone">Office Phone</string>
+    <string name="home_phone">Home Phone</string>
+</resources>
